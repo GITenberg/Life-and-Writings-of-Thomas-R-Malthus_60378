@@ -1,11 +1,16 @@
 _repo: Life-and-Writings-of-Thomas-R-Malthus_60378
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60378-h/images/cover.jpg
 creator:
   author:
     agent_name: Drysdale, Charles R.
     gutenberg_agent_id: '50939'
     url: http://www.gutenberg.org/2009/agents/50939
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60378#Life-and-Writings-of-Thomas-R-Malthus
 gutenberg_issued: '2019-09-29'
 gutenberg_type: Text
 identifiers:
